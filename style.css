@@ -1,24 +1,31 @@
 body{
+	/*Change background image*/
 	background-image:url("bg.jpg");
 }
 
 h1{
+	/*Set font size to xx-large and to custom old_english font family*/
 	font-family: old_english;
 	font-size: xx-large;
 }
 h2{
+	/*Set font family to custom old_english*/
 	font-family: old_english;
 }
 h3{
+	/*Set font family to custom old_english*/
 	font-family: old_english;
 }
 
 p{
+	/*Set font family to serif family*/
 	font-family: 'Times New Roman', Times, serif;
+	/*Set font size to large*/
 	font-size: large;
+	/*Using the shadow option I created a outline effect (https://stackoverflow.com/questions/4919076/outline-effect-to-text)*/
 	text-shadow: -1px -1px 0 #ffffff3e, 1px -1px 0 #ffffff3e, -1px 1px 0 #ffffff3e, 1px 1px 0 #ffffff3e;
 }
-
+/*Create custom font family called old_english based on the ttf file*/
 @font-face {
 	font-family: old_english;
 	src: url(Canterbury.ttf);

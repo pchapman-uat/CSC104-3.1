@@ -1,0 +1,25 @@
+body{
+	background-image:url("bg.jpg");
+}
+
+h1{
+	font-family: old_english;
+	font-size: xx-large;
+}
+h2{
+	font-family: old_english;
+}
+h3{
+	font-family: old_english;
+}
+
+p{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: large;
+	text-shadow: -1px -1px 0 #ffffff3e, 1px -1px 0 #ffffff3e, -1px 1px 0 #ffffff3e, 1px 1px 0 #ffffff3e;
+}
+
+@font-face {
+	font-family: old_english;
+	src: url(Canterbury.ttf);
+}

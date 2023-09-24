@@ -25,6 +25,4 @@ The solution is written for the problem assigned and includes all required funct
 bg.jpg
 Canterbury.ttf
 constitution.html
-CSS Checker.pdf
-HTML Checker.pdf
 style.css

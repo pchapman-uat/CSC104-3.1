@@ -1,12 +1,13 @@
 # CSC104-3.1
-Guidelines and Expectations
+
+# Guidelines and Expectations
 Experiment with the different properties that affect text display, and various text formats to create effective and interesting page design. 
 You can use for reference the constitution.html and style.css posted, which is just a plain black and white text version using some very basic CSS.
 
 Be creative and come up with the formatting (text, background, spacing) to make this jump out and catch a viewer's attention.
 
 
-Deliverables:
+# Deliverables:
 Upload the html and css files to your public repo on GitHub. 
 View the page using the GitHub HTML previewer: https://htmlpreview.github.io/Links to an external site.
 Include Screen prints of your webpage from the GitHub HTML previewer, along with the HTML and CSS validations.
@@ -20,7 +21,7 @@ Use good formatted, easy-to-read, and commented code.
 User-Friendly interface, including readable output, Interface is self-explaining
 The solution is written for the problem assigned and includes all required functionality. 
 
-Files: 
+# Files 
 bg.jpg
 Canterbury.ttf
 constitution.html
